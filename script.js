@@ -1,3 +1,4 @@
+alert("JS loaded!");
 let wordCloud = ["Hello", "hii", "how", "what", "you", "yourself", "name", "victory", "food", "lovely", "beautiful", "written", "where", "who", "awesome"];
 
 let wordsContainerEl = document.getElementById("wordsContainer");
